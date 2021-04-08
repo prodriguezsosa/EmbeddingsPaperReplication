@@ -3,16 +3,18 @@ README
 
 # Word Embeddings
 
-This repository contains the replication materials for the article “Word
-Embeddings: What works, what doesn’t and how to tell the difference for
-applied research”, to be published in *The Journal of Politics*, by
-Pedro L. Rodriguez and Arthur Spirling.
+This repository contains the replication materials for the article
+[“Word Embeddings: What works, what doesn’t and how to tell the
+difference for applied
+research”](https://github.com/ArthurSpirling/EmbeddingsPaper), to be
+published in *The Journal of Politics*, by Pedro L. Rodriguez and Arthur
+Spirling.
 
 ## Data
 
 The full dataset is 126.75 GB. It includes all 1500 embedding models we
 estimated along with all the files (raw and processed) required to
-replicate our results. You can access all this data in [this dropbox
+replicate our results. You can access all this data in [this Dropbox
 folder](https://www.dropbox.com/sh/p2g0x7u1af0g1hv/AACSyEKbjPfo4sSZqFNGThgwa?dl=0).
 
 ## Required Software and Packages
