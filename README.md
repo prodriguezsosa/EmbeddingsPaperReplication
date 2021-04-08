@@ -12,9 +12,8 @@ Pedro L. Rodriguez and Arthur Spirling.
 
 The full dataset is 126.75 GB. It includes all 1500 embedding models we
 estimated along with all the files (raw and processed) required to
-replicate our results. We have made it available in the following
-dropbox folder:
-[](https://www.dropbox.com/sh/w5osxpktji4cive/AADa65bo1YG_uzGQ_Q-IyZ-Ma?dl=0).
+replicate our results. You can access all this data in [this dropbox
+folder](https://www.dropbox.com/sh/p2g0x7u1af0g1hv/AACSyEKbjPfo4sSZqFNGThgwa?dl=0).
 
 ## Required Software and Packages
 
